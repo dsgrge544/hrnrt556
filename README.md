@@ -5,7 +5,6 @@
 - 📫 How to reach me ... discord CrypTod#5916
 
 [didhusky | product testing](https://hide.ac/magazines/AJRGzoL-b)<br>
-[cryptodmeme blog](https://mirror.xyz/0x3060fd5487a9f4184dA56bA6e09F4003c204660e)<br>
 [Dapps Interoperability](https://mirror.xyz/0x3060fd5487a9f4184dA56bA6e09F4003c204660e/AOv01gNiiBil9-QjkcVXD170anGAZetQL7-1Exup12E)<br>
 [Get a reward for developing](https://app.subsocial.network/4932/get-a-reward-for-developing-21041)<br>
 [コントリビュートの類型から“DAOで働く”を考える](https://hashhub-research.com/articles/2022-04-10-working-at-dao)<br>
