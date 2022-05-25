@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cryptodmeme twitter/telegram
+- 👋 Hi, I’m @cryptodmeme on twitter
 - 👀 I’m interested in ... crypto/blockchain
 - 🌱 I’m currently learning ... twitter
 - 💞️ I’m looking to collaborate on ... article
-- 📫 How to reach me ... discord CrypTod#5916
+- 📫 How to reach me ... @cryptodmeme
 
 [didhusky | product testing](https://hide.ac/magazines/AJRGzoL-b)<br>
 [コントリビュートの類型から“DAOで働く”を考える](https://hashhub-research.com/articles/2022-04-10-working-at-dao)<br>
